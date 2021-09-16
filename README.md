@@ -1,1 +1,3 @@
-# counter simple counter of people!
+ simple counter of people!
+ small project with Javascript,Html and Css
+
